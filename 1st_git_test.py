@@ -2,3 +2,6 @@
 test = 'git_test'
 
 print(test)
+
+for i in test:
+    print(i)
