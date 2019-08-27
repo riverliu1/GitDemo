@@ -8,3 +8,10 @@ for i in test:
 
 #This is the third version of the script.#
 #This is the fourth version of the script.#
+
+if test == "new_script":
+    print('This is not test')
+else:
+    print("This is my first git test script.")
+
+#This is the fifth version.#
